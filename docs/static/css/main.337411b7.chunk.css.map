@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,WACC,6BAA8B,CAC9B,oDAA2D,CAC3D,qDACD","file":"main.337411b7.chunk.css","sourcesContent":["@font-face {\n\tfont-family: 'Bootstrap-icons';\n\tsrc: url('bootstrap-icons/font/fonts/bootstrap-icons.woff');\n\tsrc: url('bootstrap-icons/font/fonts/bootstrap-icons.woff2');\n}\n"]}
